@@ -1,0 +1,9 @@
+consolia-backoffice/target/*
+**/.idea
+*.iml
+*.orig
+*.yml
+**/.project
+**/.classpath
+**/.settings/*
+**/bin/*
